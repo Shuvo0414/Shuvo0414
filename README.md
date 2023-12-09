@@ -16,19 +16,22 @@
   </a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px;">
+## 👨‍💻 Technologies that I know
+
+<!-- Create a container for the two rows -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;">
 
   <!-- First row -->
-  <div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
-    <img src="./icon/HTML.svg" alt="HTML" width="50" height="50">
-    <img src="./icon/CSS.svg" alt="CSS" width="50" height="50">
-    <img src="./icon/JavaScript.svg" alt="JavaScript" width="50" height="50">
-    <img src="./icon/React-Dark.svg" alt="React" width="50" height="50">
-    <img src="./icon/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50">
-  </div>
+ <div style="display: flex; align-items: center; gap: 20px;">
+  <img src="./icon/HTML.svg" alt="HTML" width="50" height="50">
+  <img src="./icon/CSS.svg" alt="CSS" width="50" height="50">
+  <img src="./icon/JavaScript.svg" alt="JavaScript" width="50" height="50">
+  <img src="./icon/React-Dark.svg" alt="React" width="50" height="50">
+  <img src="./icon/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50">
+</div>
 
   <!-- Second row -->
-  <div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
+  <div style="flex: 0 1 auto; display: flex; align-items: center; gap: 10px">
     <img src="./icon/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
     <img src="./icon/express.png" alt="Express.js" width="50" height="50">
     <img src="./icon/Firebase-Dark.svg" alt="Firebase" width="50" height="50">
@@ -36,7 +39,6 @@
   </div>
 
 </div>
-
 ## 📈 Current Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
