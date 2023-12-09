@@ -39,6 +39,7 @@
   </div>
 
 </div>
+
 ## 📈 Current Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
