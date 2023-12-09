@@ -9,7 +9,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/biswas-shuvo/">
-    <button style="padding: 8px; background-color: #008000; color: #ffffff; display: flex; justify-content: center; align-items: center;">
+    <button style="padding: 8px; background-color: blue; color: #ffffff; display: flex; justify-content: center; align-items: center;">
       <img src="./icon/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 5px;">
       LinkedIn
     </button>
