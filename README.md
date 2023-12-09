@@ -43,4 +43,8 @@
 
 ## 📈 Current Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shuvo0414&theme=green-nur&mode=weekly" alt="GitHub Streak" /></a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a style="max-width: 100%;" href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shuvo0414&theme=green-nur&mode=weekly" alt="GitHub Streak" style="max-width: 100%;" />
+  </a>
+</div>
